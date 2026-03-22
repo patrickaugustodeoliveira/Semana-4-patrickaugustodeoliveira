@@ -17,9 +17,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 > Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
 
 <<  COLOQUE A IMAGEM AQUI >>
+![alt text](Untitled-2026-03-22-1650.png)
+
+![alt text](Untitled-2026-03-22-1650(1).png)
 
 
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+
+![alt text]({0E6DAE97-ABC3-45F9-A806-5734F97006D6}.png)
+
+![alt text]({6210C6A6-79E3-481A-8B5F-563ABDB177AB}.png)
