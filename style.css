@@ -1,0 +1,106 @@
+/*Formatação da estrutura*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;   
+}
+    
+header {
+    background-color: brown;
+    height: 80px;
+    padding: 20px;
+    background: url(images/nat.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+}
+
+main {
+background-color: beige;
+width: 50%;
+height: 22.35cm;
+float: left;
+padding: 20px;
+box-sizing: border-box;
+border-radius: 10px;
+}
+
+main img {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    display: none;
+}
+
+aside {
+background-color: rgba(0, 100, 0, 0.6);
+width: 50%;
+height: 22.35cm;
+float: right;
+padding: 20px;
+border-radius: 10px;
+box-sizing: border-box;
+}
+
+
+footer {
+    background-color: beige;
+    clear: both;
+    text-align: center;
+}
+
+/* Componente Menu Princial */
+.caixa-menuprincipal {
+    float: right;
+}
+
+.caixa-menuprincipal ul {
+    list-style-type: none;
+}
+
+.caixa-menuprincipal li {
+    display: inline-block;
+}
+
+.caixa-menuprincipal ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    background-color: bisque;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.caixa-menuprincipal ul li a:hover {
+    background-color: burlywood;
+}
+/* Componente Postagem */
+.caixa-post {
+    margin-bottom: 20px;
+}
+
+/* Componente Categoria */
+.caixa-categoria {
+}
+
+.caixa-categoria ul li a:visited {
+    color: crimson;
+}
+
+
+/* Componente Pesquisa */
+.caixa-pesquisa {
+
+}
+
+#11 {
+    background-position: center;
+}
+
+ 
